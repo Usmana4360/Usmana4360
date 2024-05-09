@@ -1,6 +1,6 @@
 # <p align="center">👋 Hi, I’m Muhammad Usman</p>
 ---
-### <p align="center">I’m AI Anthasiast and Electrical Engineer</p>
+### <p align="center">AI Engineer</p>
 - 🌱 I’m currently learning Artifical Intelligance, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me usmanashraf4360@gmail.com
